@@ -5,9 +5,9 @@ This application renders workouts based on the user's location.
 A workout that could be chosen:<br>
 Running<br>
 Cycling<br>
-Editing workouts
-Deleting workouts
-Deleting all workouts
+Editing workouts<br>
+Deleting workouts<br>
+Deleting all workouts<br>
 
 ## Libraries
 Leaftlet
