@@ -17,3 +17,5 @@ This application renders workouts based on the user's location.
 ## Libraries
 Leaftlet
 
+## Deployment
+https://mohamedsamirr9.github.io/Mapty/
