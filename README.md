@@ -3,12 +3,13 @@ This application renders workouts based on the user's location.
 
 ## Features
 <ul>
-<li><ul>A workout that could be chosen:<br><li>
-<li>&nbsp;Running<br></li>
-  <li>&nbsp;Cycling<br></li></ul>
-Editing workouts<br>
-Deleting workouts<br>
-Deleting all workouts<br>
+<li>A workout that could be chosen:</li>
+Running
+Cycling
+<li>Editing workouts</li>
+<li>Deleting workouts</li>
+<li>Deleting all workouts</li>
+<li>A workout that could be chosen:</li>  
 </ul>
 ## Libraries
 Leaftlet
